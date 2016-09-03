@@ -1,0 +1,7 @@
+#19.- Haz un programa que pida numero de horas y devuelva el numero de segundos al que equivale.
+
+h=int(input("ingresa la hora:"))
+
+t = h * 3600
+
+print(t, "segundos")
